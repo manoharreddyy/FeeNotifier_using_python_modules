@@ -13,6 +13,11 @@ A Python-based fee management system designed for admins to manage user details,
 ## Requirements
 
 - Python 3.x
+-  Standard Python libraries:
+  - random
+  - smtplib
+  - email.mime modules
+
 
 
 
